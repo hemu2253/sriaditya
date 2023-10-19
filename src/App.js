@@ -4,7 +4,6 @@ import Tables from "./pages/Tables";
 import Billing from "./pages/Billing";
 import SignIn from "./pages/SignIn";
 import Main from "./components/layout/Main";
-import "antd/dist/antd.css";
 import "./assets/styles/main.css";
 import "./assets/styles/responsive.css";
 import Students from "./pages/Students";

@@ -49,6 +49,7 @@ const SendSms = () => {
     {
       title: "Message Content",
       dataIndex: "message",
+      width: 500,
     },
     {
       title: "Action",
